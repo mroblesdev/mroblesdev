@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hola 👋 mi nombre es Marco
 
-<!--
-**mroblesdev/mroblesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:man_technologist: Soy desarrollador web.
 
-Here are some ideas to get you started:
+:books: Me gusta estar en un aprendizaje constante.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:man_teacher: Disfruto compartir mi conocimiento.
+
+:globe_with_meridians: Principalmente desarrollo sistemas web con PHP y MySQL, ya sea desde cero o con algun framework.
+
+:computer: He trabajado con proyectos en otros lenguajes como: Java, C#, Javascript, Android, Python, entre otros.
+
+:smiley: Disfruto vivir el presente con la experiencia del pasado y con mira hacia el futuro.
+
