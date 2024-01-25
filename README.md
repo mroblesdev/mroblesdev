@@ -12,3 +12,9 @@
 
 :smiley: Disfruto vivir el presente con la experiencia del pasado y con mira hacia el futuro.
 
+---
+
+### 📈 Mis estadísticas de GitHub
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mroblesdev&show_icons=true&theme=transparent&locale=es&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mroblesdev&locale=es&layout=compact)
