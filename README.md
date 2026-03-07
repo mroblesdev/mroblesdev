@@ -14,11 +14,6 @@
 
 ---
 
-### 📈 Mis estadísticas de GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mroblesdev&show_icons=true&theme=transparent&locale=es&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mroblesdev&locale=es&layout=compact)
-
 ### Mis ultimos videos de Youtube
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Cómo instalar SQL Server 2025 (GUIA ACTUALIZADA 2026)](https://ytcards.demolab.com/?id=a0ln_5dtCow&title=C%C3%B3mo+instalar+SQL+Server+2025+%28GUIA+ACTUALIZADA+2026%29&lang=en&timestamp=1772494201&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Cómo instalar SQL Server 2025 (GUIA ACTUALIZADA 2026)")](https://www.youtube.com/watch?v=a0ln_5dtCow)
